@@ -3,6 +3,3 @@ pandas
 plotly
 requests
 openpyxl
-time
-datetime
-timedelta
